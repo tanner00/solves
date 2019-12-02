@@ -1,3 +1,6 @@
+// URL: https://adventofcode.com/2019/day/1
+// Type: Ad-Hoc
+
 #include <bits/stdc++.h>
 
 using namespace std;
