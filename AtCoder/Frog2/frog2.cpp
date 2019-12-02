@@ -1,4 +1,5 @@
-// https://atcoder.jp/contests/dp/tasks/dp_b
+// URL: https://atcoder.jp/contests/dp/tasks/dp_b
+// TYPE: DP
 
 #include <bits/stdc++.h>
 
