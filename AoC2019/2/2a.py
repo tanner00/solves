@@ -1,3 +1,6 @@
+# URL: https://adventofcode.com/2019/day/2
+# TYPE: Ad-Hoc
+
 program = [int(v) for v in input().split(',')]
 program_size = len(program)
 

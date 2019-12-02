@@ -1,3 +1,6 @@
+# URL: https://adventofcode.com/2019/day/2
+# TYPE: Ad-Hoc
+
 import sys
 
 original = [int(v) for v in input().split(',')]
